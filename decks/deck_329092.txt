@@ -1,0 +1,27 @@
+4 Myr Enforcer
+4 Frogmite
+4 Memnite
+4 Thought Monitor
+4 Ornithopter
+4 Sojourner's Companion
+4 Thoughtcast
+4 Urza's Saga
+1 Pithing Needle
+1 Relic of Progenitus
+1 Shadowspear
+3 Mishra's Bauble
+4 Mistvault Bridge
+4 Treasure Vault
+4 Cranial Plating
+4 Springleaf Drum
+4 Darksteel Citadel
+1 Spire of Industry
+1 Island
+sideboard
+3 Etched Champion
+2 Negate
+3 Metallic Rebuke
+1 Grafdigger's Cage
+1 Tormod's Crypt
+1 Relic of Progenitus
+4 Damping Sphere

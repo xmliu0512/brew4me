@@ -1,0 +1,27 @@
+4 Primeval Titan
+4 Verdant Command
+2 Transmogrify
+4 Farseek
+4 Explore
+4 Strike It Rich
+4 Search for Tomorrow
+4 Indomitable Creativity
+4 Wrenn and Six
+1 Sacred Foundry
+1 Ketria Triome
+1 Raugrin Triome
+3 Arid Mesa
+3 Valakut, the Molten Pinnacle
+3 Stomping Ground
+3 Mountain
+3 Dwarven Mine
+4 Wooded Foothills
+4 Scalding Tarn
+sideboard
+1 Aether Gust
+2 Veil of Summer
+2 Flusterstorm
+4 Force of Vigor
+4 Blossoming Calm
+1 Rest in Peace
+1 Steam Vents

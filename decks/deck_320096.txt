@@ -1,0 +1,27 @@
+4 Blood Artist
+4 Ignoble Hierarch
+4 Magus of the Bridge
+4 Satyr Wayfinder
+4 Voice of Resurgence
+4 Viscera Seer
+4 Tidehollow Sculler
+3 Rally the Ancestors
+4 Collected Company
+4 Grist, the Hunger Tide
+1 Blooming Marsh
+1 Temple Garden
+1 Swamp
+1 Plains
+1 Forest
+1 Concealed Courtyard
+2 Godless Shrine
+3 Windswept Heath
+3 Overgrown Tomb
+3 Verdant Catacombs
+4 Marsh Flats
+sideboard
+2 Collector Ouphe
+2 Auriok Champion
+4 Skyclave Apparition
+4 Endurance
+3 Damping Sphere

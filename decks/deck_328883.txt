@@ -1,0 +1,39 @@
+1 Seasoned Pyromancer
+1 Archon of Emeria
+1 Magus of the Moon
+1 Pia and Kiran Nalaar
+1 Sanctifier en-Vec
+4 Thalia, Guardian of Thraben
+4 Stoneforge Mystic
+4 Solitude
+4 Skyclave Apparition
+4 Ragavan, Nimble Pilferer
+4 Imperial Recruiter
+4 Flickerwisp
+4 Esper Sentinel
+4 Charming Prince
+4 Urza's Saga
+1 Sword of Fire and Ice
+1 Soul-Guide Lantern
+1 Shadowspear
+1 Kaldra Compleat
+1 Batterskull
+4 Aether Vial
+1 Eiganjo Castle
+3 Sacred Foundry
+3 Sunbaked Canyon
+4 Inspiring Vantage
+4 Needleverge Pathway
+11 Snow-Covered Plains
+sideboard
+1 Yorion, Sky Nomad
+1 Sanctum Prelate
+1 Drannith Magistrate
+1 Burrenton Forge-Tender
+1 Avalanche Riders
+1 Magus of the Moon
+1 Phyrexian Revoker
+2 Leonin Relic-Warder
+3 Sanctifier en-Vec
+1 Pithing Needle
+2 Portable Hole

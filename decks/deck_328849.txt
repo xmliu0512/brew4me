@@ -1,0 +1,35 @@
+2 Tourach, Dread Cantor
+4 Dauthi Voidwalker
+4 Elvish Reclaimer
+4 Tarmogoyf
+4 Fatal Push
+1 Life from the Loam
+2 Bloodchief's Thirst
+3 Thoughtseize
+3 Witherbloom Command
+4 Inquisition of Kozilek
+4 Urza's Saga
+1 Nihil Spellbomb
+1 Shadowspear
+4 Mishra's Bauble
+1 Urborg, Tomb of Yawgmoth
+1 Castle Locthwain
+1 Forest
+1 Yavimaya, Cradle of Growth
+1 Misty Rainforest
+2 Swamp
+2 Blooming Marsh
+3 Marsh Flats
+3 Overgrown Tomb
+4 Verdant Catacombs
+sideboard
+1 Lurrus of the Dream-Den
+1 Tourach, Dread Cantor
+1 Veil of Summer
+2 Abrupt Decay
+2 Seal of Primordium
+1 Pithing Needle
+1 Soul-Guide Lantern
+2 Engineered Explosives
+2 Void Mirror
+2 Torpor Orb
