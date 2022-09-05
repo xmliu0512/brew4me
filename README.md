@@ -22,6 +22,8 @@ Python3 is needed to run the script.
 1. Run `deck_crawler.py`
 
 	  -Note, the first time you ever run the `deck_crawler.py` method, it will download Chromium into your home directory (e.g. `~/.pyppeteer/`). This only happens once. You may also need to install a few [Linux packages](https://github.com/miyakogi/pyppeteer/issues/60) to get pyppeteer working.
+	  
+	  -You can manually add your own decks by placing them in the `decks` folder. (Decklists must be in arena format.)
 
 ## Find decks to build
 1. Run `brew4me.py`
