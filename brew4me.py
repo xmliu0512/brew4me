@@ -1,12 +1,8 @@
-from configparser import NoOptionError
 from fileinput import close
 from operator import truediv
-import struct
 import sys 
-import statistics
 import os
 import csv
-from telnetlib import NOOPT
 
 class deck:
     
@@ -121,7 +117,6 @@ def main():
     collection_dir = file_dir + "\\collection\\"
     deck_file_list = os.listdir(deck_dir)
     collection_file = os.listdir(collection_dir)
-
     my_collection = collection (collection_dir+collection_file[0])
     deck_list = []
     for deck_file in deck_file_list:
@@ -134,14 +129,13 @@ def main():
         have_cards = 0
         total_cards = 0
         for j in i[1] :
-
+            #Program assumes user owns sufficient basic lands.
             if (j[2] == "Plains"
                 or j[2] == "Island"
                 or j[2] == "Swamp"
                 or j[2] == "Mountain"
                 or j[2] == "Forest"
             ):
-            #Program assumes user owns sufficient basic lands.
                 pass
             else:
                 total_cards += float(j[1])
@@ -150,6 +144,7 @@ def main():
                 else:
                     have_cards += float(j[0])
         i.append(have_cards/total_cards)   
+    #Sorts compared decks by completion rate.
     results = sorted(results, key=lambda x: x[-1])
     for i in results :     
         print ("\n================================\n")

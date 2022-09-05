@@ -13,8 +13,11 @@ def main():
             if 'archetypes' in link:
                 archetype_list.append(link) 
     mtgsite.close()
+    print('Found ' + str (len(archetype_list))+' Decks!')
 
+    progress_count = 0
     for archetype in archetype_list:
+        progress_count += 1
         archetype_site = session.get(('https://www.mtgstocks.com' + archetype))
         deck = ''
         while not deck:
@@ -32,7 +35,7 @@ def main():
         attempt_count = 0
         while 'Mainboard' not in pagetext:
             attempt_count+=1
-            print('\r'+'Attempting to fetch '+ deck +'. Try #'+str(attempt_count)   )
+            print('\r'+'Attempting to fetch deck # '+str(progress_count)+'/'+ str(len(archetype_list)) +'. Try #'+str(attempt_count) , end = ''  )
             deck_site.html.render(timeout=300)
             pagetext = deck_site.html.text
         deck_site.close()
@@ -42,8 +45,7 @@ def main():
         sideboard_count = -1
         words_to_skip = ['Creature','Instant','Sorcery','Enchantment','Land','Artifact','Planeswalker','Other']
         for line in pagetext.splitlines():
-            if line in words_to_skip:
-                continue
+            
             if 'Mainboard (' in line:
                 write_flag=True
                 continue
@@ -52,6 +54,8 @@ def main():
                 outdeck += 'sideboard\n'
                 continue
             if write_flag == True:
+                if line in words_to_skip:
+                    continue
                 if sideboard_count > 0:    
                     sideboard_count -= int(re.search('\d+',line).group())
                 outdeck += line+'\n'
