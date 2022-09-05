@@ -1,0 +1,32 @@
+2 Boreal Druid
+4 Eldrazi Displacer
+4 Thought-Knot Seer
+4 Noble Hierarch
+4 Reality Smasher
+4 Stoneforge Mystic
+4 Matter Reshaper
+4 Path to Exile
+4 Ancient Stirrings
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Kaldra Compleat
+1 Batterskull
+1 Wastes
+1 Field of Ruin
+1 Temple Garden
+2 Plains
+2 Forest
+2 Prismatic Vista
+2 Cavern of Souls
+3 Windswept Heath
+4 Brushland
+4 Eldrazi Temple
+sideboard
+1 Solitude
+2 Knight of Autumn
+2 Veil of Summer
+2 Force of Vigor
+2 Rest in Peace
+1 Relic of Progenitus
+2 Engineered Explosives
+3 Chalice of the Void

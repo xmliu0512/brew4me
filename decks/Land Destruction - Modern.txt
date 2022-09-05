@@ -1,0 +1,32 @@
+1 Endurance
+2 Glorybringer
+3 Klothys, God of Destiny
+3 Bonecrusher Giant
+3 Fury
+4 Seasoned Pyromancer
+4 Arbor Elf
+4 Bloodbraid Elf
+4 Lightning Bolt
+4 Utopia Sprawl
+4 Blood Moon
+2 Chandra, Torch of Defiance
+2 Wrenn and Six
+1 Boseiju, Who Endures
+1 Mountain
+1 Sokenzan, Crucible of Defiance
+1 Tranquil Thicket
+1 Verdant Catacombs
+3 Stomping Ground
+4 Forest
+4 Windswept Heath
+4 Wooded Foothills
+sideboard
+1 Scavenging Ooze
+2 Obstinate Baloth
+2 Collector Ouphe
+2 Ancient Grudge
+2 Run Afoul
+1 Anger of the Gods
+1 Choke
+2 Engineered Explosives
+2 Relic of Progenitus

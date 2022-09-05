@@ -1,0 +1,40 @@
+1 Magus of the Moon
+1 Archon of Emeria
+1 Cathar Commando
+1 Sanctifier en-Vec
+1 Timeless Dragon
+1 Lion Sash
+2 Giver of Runes
+3 Extraction Specialist
+3 Solitude
+4 Thalia, Guardian of Thraben
+4 Stoneforge Mystic
+4 Skyclave Apparition
+4 Imperial Recruiter
+4 Flickerwisp
+4 Esper Sentinel
+4 Charming Prince
+3 Urza's Saga
+1 Sword of Fire and Ice
+1 Kaldra Compleat
+1 Soul-Guide Lantern
+1 Shadowspear
+4 Aether Vial
+1 Eiganjo, Seat of the Empire
+1 Mishra's Factory
+2 Sunbaked Canyon
+3 Sacred Foundry
+4 Needleverge Pathway
+4 Inspiring Vantage
+12 Snow-Covered Plains
+sideboard
+1 Yorion, Sky Nomad
+1 Sanctum Prelate
+1 Containment Priest
+1 Burrenton Forge-Tender
+1 Magus of the Moon
+2 Drannith Magistrate
+2 Leonin Relic-Warder
+3 Sanctifier en-Vec
+2 Prismatic Ending
+1 Pithing Needle

@@ -1,0 +1,45 @@
+1 Emrakul, the Promised End
+2 Endurance
+3 Ice-Fang Coatl
+3 Fury
+4 Solitude
+4 Omnath, Locus of Creation
+4 Risen Reef
+2 Unholy Heat
+2 Lightning Bolt
+3 Ephemerate
+4 Eladamri's Call
+4 Prismatic Ending
+2 Oath of Nissa
+4 Abundant Growth
+4 Wrenn and Six
+4 Teferi, Time Raveler
+1 Wooded Foothills
+1 Temple Garden
+1 Stomping Ground
+1 Steam Vents
+1 Snow-Covered Plains
+1 Snow-Covered Island
+1 Sacred Foundry
+1 Raugrin Triome
+1 Jetmir's Garden
+1 Hallowed Fountain
+1 Breeding Pool
+2 Boseiju, Who Endures
+2 Snow-Covered Forest
+3 Cavern of Souls
+4 Flooded Strand
+4 Misty Rainforest
+4 Windswept Heath
+sideboard
+1 Endurance
+1 Kataki, War's Wage
+1 Containment Priest
+1 Yorion, Sky Nomad
+1 Obsidian Charmaw
+1 Meddling Mage
+1 Magus of the Moon
+1 Knight of Autumn
+2 Dovin's Veto
+3 Veil of Summer
+2 Chalice of the Void

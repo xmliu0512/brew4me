@@ -1,0 +1,29 @@
+1 Gingerbrute
+2 Giver of Runes
+2 Kor Outfitter
+4 Stoneforge Mystic
+4 Ornithopter
+4 Puresteel Paladin
+4 Esper Sentinel
+2 Blacksmith's Skill
+1 Steelshaper's Gift
+4 Urza's Saga
+4 Sigarda's Aid
+1 Kaldra Compleat
+1 Nettlecyst
+1 Shadowspear
+3 Springleaf Drum
+4 Colossus Hammer
+1 Eiganjo, Seat of the Empire
+3 Inkmoth Nexus
+4 Silent Clearing
+10 Plains
+sideboard
+2 Sanctifier en-Vec
+2 Hushbringer
+3 Drannith Magistrate
+2 Blacksmith's Skill
+2 Path to Exile
+2 March of Otherworldly Light
+1 Pithing Needle
+1 Relic of Progenitus

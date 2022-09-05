@@ -1,0 +1,33 @@
+1 Emrakul, the Aeons Torn
+1 Velomachus Lorehold
+2 Path to Exile
+3 Remand
+3 Growth Spiral
+4 Prismari Command
+4 Invoke Calamity
+4 Lightning Bolt
+4 Indomitable Creativity
+4 Time Warp
+2 Teferi, Time Raveler
+4 Wrenn and Six
+1 Stomping Ground
+1 Raugrin Triome
+1 Sacred Foundry
+1 Island
+1 Ketria Triome
+1 Mountain
+2 Bloodstained Mire
+2 Steam Vents
+3 Wooded Foothills
+3 Arid Mesa
+4 Dwarven Mine
+4 Scalding Tarn
+sideboard
+1 Iona, Shield of Emeria
+1 Force of Negation
+1 Spell Pierce
+2 Flusterstorm
+2 Mystical Dispute
+3 Veil of Summer
+3 Nature's Claim
+2 Boseiju, Who Endures

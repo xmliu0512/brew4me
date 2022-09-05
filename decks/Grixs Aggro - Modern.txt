@@ -1,0 +1,32 @@
+4 Tarmogoyf
+4 Death's Shadow
+4 Street Wraith
+2 Temur Battle Rage
+2 Abrupt Decay
+2 Cling to Dust
+2 Dismember
+3 Stubborn Denial
+4 Fatal Push
+3 Inquisition of Kozilek
+3 Traverse the Ulvenwald
+4 Thoughtseize
+4 Mishra's Bauble
+1 Watery Grave
+1 Forest
+1 Swamp
+1 Blood Crypt
+2 Overgrown Tomb
+2 Bloodstained Mire
+3 Nurturing Peatland
+4 Polluted Delta
+4 Verdant Catacombs
+sideboard
+1 Stubborn Denial
+1 Terminate
+2 Veil of Summer
+2 Disdainful Stroke
+2 Ceremonious Rejection
+2 Collective Brutality
+1 Nihil Spellbomb
+2 Damping Sphere
+2 Ashiok, Dream Render

@@ -1,0 +1,25 @@
+3 Inverter of Truth
+3 Thassa's Oracle
+4 Wasteland Strangler
+4 Thought-Knot Seer
+4 Ulamog's Nullifier
+4 Valki, God of Lies
+4 Suspend
+4 Release to the Wind
+4 Delay
+4 Relic of Progenitus
+1 Polluted Delta
+3 Island
+3 Swamp
+3 Cavern of Souls
+4 Eldrazi Temple
+4 Underground River
+4 Watery Grave
+sideboard
+2 Hurkyl's Recall
+2 Spell Pierce
+4 Fatal Push
+2 Ratchet Bomb
+2 Void Mirror
+1 Ashiok, Nightmare Muse
+2 Ashiok, Dream Render

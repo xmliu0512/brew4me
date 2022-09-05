@@ -1,0 +1,33 @@
+3 Academy Manufactor
+4 Ovalchase Daredevil
+4 Goblin Engineer
+4 Ledger Shredder
+4 Asmoranomardicadaistinaculdacar
+4 Emry, Lurker of the Loch
+4 Unearth
+4 Urza's Saga
+1 Nihil Spellbomb
+1 Aether Spellbomb
+1 Springleaf Drum
+2 Time Sieve
+4 The Underworld Cookbook
+4 Mishra's Bauble
+1 Swamp
+1 Blood Crypt
+1 Island
+1 Steam Vents
+2 Watery Grave
+2 Scalding Tarn
+2 Bloodstained Mire
+2 Darkslick Shores
+4 Polluted Delta
+sideboard
+1 Jegantha, the Wellspring
+2 Fatal Push
+1 Shenanigans
+3 Bone Shards
+2 Leyline of the Void
+2 Ghirapur Aether Grid
+1 Pithing Needle
+1 Soul-Guide Lantern
+2 Damping Sphere

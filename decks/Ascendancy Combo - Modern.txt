@@ -1,0 +1,37 @@
+3 Dragon's Rage Channeler
+3 Emry, Lurker of the Loch
+3 Ledger Shredder
+4 Ragavan, Nimble Pilferer
+2 Lightning Bolt
+2 Unholy Heat
+1 Grapeshot
+4 Expressive Iteration
+4 Urza's Saga
+4 Underworld Breach
+1 Aether Spellbomb
+1 Springleaf Drum
+1 Shadowspear
+3 Grinding Station
+3 Mox Amber
+4 Mishra's Bauble
+1 Mountain
+1 Sacred Foundry
+1 Hallowed Fountain
+1 Island
+1 Otawara, Soaring City
+2 Flooded Strand
+2 Steam Vents
+2 Arid Mesa
+2 Spirebluff Canal
+4 Scalding Tarn
+sideboard
+1 Ledger Shredder
+1 Silence
+1 Spell Pierce
+1 Flusterstorm
+2 Prismatic Ending
+1 Tormod's Crypt
+1 Pithing Needle
+1 Soul-Guide Lantern
+3 Engineered Explosives
+3 Teferi, Time Raveler

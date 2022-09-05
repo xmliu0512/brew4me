@@ -1,0 +1,26 @@
+3 Gemrazer
+4 Plague Stinger
+4 Glistener Elf
+4 Ignoble Hierarch
+4 Phyrexian Crusader
+2 Snakeskin Veil
+3 Fatal Push
+4 Vines of Vastwood
+4 Might of Old Krosa
+3 Thoughtseize
+4 Scale Up
+1 Boseiju, Who Endures
+1 Pendelhaven
+2 Snow-Covered Forest
+3 Blooming Marsh
+3 Nurturing Peatland
+3 Overgrown Tomb
+4 Inkmoth Nexus
+4 Verdant Catacombs
+sideboard
+1 Kitchen Finks
+4 Endurance
+3 Veil of Summer
+3 Force of Vigor
+2 Choke
+2 Grist, the Hunger Tide

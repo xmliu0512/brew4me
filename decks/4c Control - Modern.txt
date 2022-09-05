@@ -1,0 +1,30 @@
+4 Fury
+4 Brazen Borrower
+4 Scion of Draco
+4 Territorial Kavu
+4 Shardless Agent
+4 Fire // Ice
+4 Violent Outburst
+4 Force of Negation
+4 Crashing Footfalls
+1 Xander's Lounge
+1 Boseiju, Who Endures
+1 Blood Crypt
+1 Breeding Pool
+1 Temple Garden
+1 Stomping Ground
+1 Steam Vents
+1 Sacred Foundry
+1 Otawara, Soaring City
+1 Island
+1 Indatha Triome
+1 Forest
+4 Flooded Strand
+4 Misty Rainforest
+4 Wooded Foothills
+sideboard
+3 Subtlety
+4 Endurance
+3 Mystical Dispute
+3 Force of Vigor
+2 Teferi, Time Raveler

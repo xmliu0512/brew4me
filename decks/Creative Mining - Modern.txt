@@ -1,0 +1,28 @@
+2 Velomachus Lorehold
+3 Fire // Ice
+4 Savor the Moment
+4 Explore
+4 Time Warp
+4 Transmogrify
+4 Fires of Invention
+1 Tamiyo, Collector of Tales
+2 Chandra, Torch of Defiance
+4 Wrenn and Six
+4 Teferi, Time Raveler
+1 Steam Vents
+1 Snow-Covered Mountain
+1 Sacred Foundry
+2 Bloodstained Mire
+2 Raugrin Triome
+2 Stomping Ground
+3 Ketria Triome
+4 Dwarven Mine
+4 Wooded Foothills
+4 Scalding Tarn
+sideboard
+1 Emrakul, the Aeons Torn
+2 Force of Vigor
+3 Veil of Summer
+2 Anger of the Gods
+4 Leyline of the Void
+3 Chalice of the Void

@@ -1,0 +1,26 @@
+1 Wild Cantor
+1 An Offer You Can't Refuse
+4 Spikefield Hazard
+4 Pyretic Ritual
+4 Pact of Negation
+4 Valakut Awakening
+4 Manamorphose
+4 Desperate Ritual
+1 Reforge the Soul
+1 Emeria's Call
+3 Irencrag Feat
+3 Bala Ged Recovery
+4 Turntimber Symbiosis
+4 Strike It Rich
+4 Shatterskull Smashing
+4 Recross the Paths
+1 Pyromancer Ascension
+1 Engineered Explosives
+4 Goblin Charbelcher
+4 Sea Gate Restoration
+sideboard
+3 Magus of the Moon
+2 Force of Vigor
+2 Dead // Gone
+4 Veil of Summer
+4 Leyline of Sanctity

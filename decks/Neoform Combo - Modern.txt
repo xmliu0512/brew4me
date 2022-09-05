@@ -1,0 +1,27 @@
+2 Griselbrand
+2 Endurance
+3 Autochthon Wurm
+4 Allosaurus Rider
+4 Chancellor of the Tangle
+2 Pact of Negation
+4 Summoner's Pact
+4 Nourishing Shoal
+4 Turntimber Symbiosis
+4 Serum Visions
+4 Neoform
+4 Eldritch Evolution
+4 Abundant Harvest
+1 Aetherflux Reservoir
+1 Zuran Orb
+2 Mox Amber
+3 Waterlogged Grove
+4 Gemstone Mine
+4 Botanical Sanctum
+sideboard
+1 Force of Vigor
+2 Nature's Claim
+2 Pact of Negation
+3 Veil of Summer
+4 Leyline of Sanctity
+1 Boseiju, Who Endures
+2 Colossal Skyturtle

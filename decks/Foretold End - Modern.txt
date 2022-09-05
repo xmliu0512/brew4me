@@ -1,0 +1,26 @@
+2 Brazen Borrower
+3 Street Wraith
+4 Windcaller Aven
+4 Curator of Mysteries
+4 Striped Riverwinder
+4 Electrodominance
+4 Remand
+4 Force of Negation
+1 Solve the Equation
+4 Living End
+4 Crashing Footfalls
+4 As Foretold
+1 Island
+1 Mountain
+4 Scalding Tarn
+4 Steam Vents
+4 Fiery Islet
+4 Spirebluff Canal
+sideboard
+2 Counterspell
+2 Prismari Command
+2 Flusterstorm
+2 Dress Down
+3 Alpine Moon
+2 Tormod's Crypt
+2 Chalice of the Void

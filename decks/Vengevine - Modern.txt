@@ -1,0 +1,27 @@
+1 Wonder
+2 Gurmag Angler
+2 Rotting Rats
+3 Gravecrawler
+4 Narcomoeba
+4 Hedron Crab
+4 Merfolk Secretkeeper
+4 Vengevine
+4 Stitcher's Supplier
+4 Prized Amalgam
+4 Otherworldly Gaze
+4 Creeping Chill
+1 Swamp
+1 Island
+1 Breeding Pool
+2 Overgrown Tomb
+3 Watery Grave
+4 Polluted Delta
+4 Misty Rainforest
+4 Verdant Catacombs
+sideboard
+2 Spell Pierce
+2 Natural State
+2 Darkblast
+2 Assassin's Trophy
+3 Thoughtseize
+4 Leyline of the Void

@@ -1,0 +1,23 @@
+4 Sprite Dragon
+4 Dragon's Rage Channeler
+4 Ledger Shredder
+4 Ragavan, Nimble Pilferer
+4 Lightning Bolt
+4 Unholy Heat
+4 Lava Dart
+4 Consider
+4 Expressive Iteration
+2 Unlicensed Hearse
+4 Mishra's Bauble
+1 Steam Vents
+4 Fiery Islet
+4 Scalding Tarn
+4 Spirebluff Canal
+5 Mountain
+sideboard
+2 Spell Pierce
+2 Flusterstorm
+4 Shattering Spree
+3 Alpine Moon
+1 Unlicensed Hearse
+3 Dragon's Claw

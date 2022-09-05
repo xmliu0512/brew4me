@@ -1,0 +1,53 @@
+2 Surgical Extraction
+3 Thoughtseize
+4 Ancient Stirrings
+4 Inquisition of Kozilek
+4 Prismatic Ending
+4 Urza's Saga
+1 Ghoulcaller's Bell
+1 Pithing Needle
+1 Nihil Spellbomb
+1 The Underworld Cookbook
+1 Grafdigger's Cage
+2 Pyxis of Pandemonium
+4 Codex Shredder
+4 Mishra's Bauble
+4 Lantern of Insight
+4 Ensnaring Bridge
+1 Swamp
+1 Academy Ruins
+1 Forest
+1 Glimmervoid
+1 Inventors' Fair
+1 Plains
+2 City of Brass
+2 Concealed Courtyard
+3 Blooming Marsh
+3 Spire of Industry
+sideboard
+2 Surgical Extraction
+3 Thoughtseize
+4 Prismatic Ending
+4 Inquisition of Kozilek
+4 Ancient Stirrings
+4 Urza's Saga
+1 Pithing Needle
+1 Ghoulcaller's Bell
+1 Nihil Spellbomb
+1 Grafdigger's Cage
+1 The Underworld Cookbook
+2 Pyxis of Pandemonium
+4 Ensnaring Bridge
+4 Mishra's Bauble
+4 Lantern of Insight
+4 Codex Shredder
+1 Plains
+1 Glimmervoid
+1 Inventors' Fair
+1 Academy Ruins
+1 Swamp
+1 Forest
+2 Concealed Courtyard
+2 City of Brass
+3 Blooming Marsh
+3 Spire of Industry

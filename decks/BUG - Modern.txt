@@ -1,0 +1,37 @@
+2 Snapcaster Mage
+4 Ice-Fang Coatl
+2 Cling to Dust
+2 Memory Deluge
+3 Counterspell
+4 Assassin's Trophy
+4 Unholy Heat
+4 Drown in the Loch
+4 Dead of Winter
+3 Urza's Saga
+4 Abundant Growth
+1 Expedition Map
+1 Soul-Guide Lantern
+4 Navigator's Compass
+2 Jace, the Mind Sculptor
+4 Wrenn and Six
+4 Teferi, Time Raveler
+1 Snow-Covered Plains
+1 Snow-Covered Mountain
+1 Misty Rainforest
+1 Verdant Catacombs
+2 Wooded Foothills
+2 Snow-Covered Forest
+2 Snow-Covered Swamp
+2 Boseiju, Who Endures
+4 Prismatic Vista
+4 Field of Ruin
+4 Snow-Covered Island
+4 Fabled Passage
+sideboard
+1 Yorion, Sky Nomad
+2 Veil of Summer
+4 Force of Negation
+4 Force of Vigor
+2 Damn
+1 Pithing Needle
+1 Shadowspear

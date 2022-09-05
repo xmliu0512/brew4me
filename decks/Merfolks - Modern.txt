@@ -1,0 +1,24 @@
+3 Subtlety
+4 Glasspool Mimic
+4 Lord of Atlantis
+4 Master of the Pearl Trident
+4 Merfolk Trickster
+4 Silvergill Adept
+4 Tide Shaper
+4 Svyelun of Sea and Sky
+4 Force of Negation
+4 Spreading Seas
+4 Aether Vial
+1 Otawara, Soaring City
+1 Minamo, School at Water's Edge
+1 Oboro, Palace in the Clouds
+3 Mutavault
+3 Cavern of Souls
+8 Island
+sideboard
+1 Subtlety
+2 Hurkyl's Recall
+3 Spell Pierce
+3 Dismember
+3 Relic of Progenitus
+3 Chalice of the Void

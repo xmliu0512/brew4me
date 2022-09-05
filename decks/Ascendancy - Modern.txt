@@ -1,0 +1,38 @@
+1 Wild Cantor
+2 Endurance
+1 Veil of Summer
+2 Gut Shot
+4 Pact of Negation
+4 Summoner's Pact
+4 An Offer You Can't Refuse
+1 Grapeshot
+4 Strike It Rich
+4 Glittering Wish
+1 Sterling Grove
+3 Song of Creation
+3 Utopia Sprawl
+3 Engineered Explosives
+4 Mishra's Bauble
+1 Temple Garden
+1 Sacred Foundry
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Stomping Ground
+2 Gemstone Mine
+2 Breeding Pool
+2 Forest
+4 Windswept Heath
+4 Wooded Foothills
+sideboard
+1 Wild Cantor
+1 Snapback
+1 Guttural Response
+1 Mine Collapse
+1 Wear // Tear
+2 Nature's Claim
+3 Veil of Summer
+1 Master the Way
+1 Sterling Grove
+1 Song of Creation
+1 Teferi, Time Raveler
+1 Colossal Skyturtle

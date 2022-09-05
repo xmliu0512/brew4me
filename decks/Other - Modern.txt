@@ -1,0 +1,32 @@
+4 Ovalchase Daredevil
+4 Academy Manufactor
+4 Asmoranomardicadaistinaculdacar
+4 Emry, Lurker of the Loch
+4 Ledger Shredder
+4 Unearth
+4 Urza's Saga
+1 Springleaf Drum
+1 Aether Spellbomb
+1 Nihil Spellbomb
+1 Shadowspear
+4 The Underworld Cookbook
+4 Time Sieve
+4 Mishra's Bauble
+1 Flooded Strand
+1 Godless Shrine
+1 Swamp
+1 Hallowed Fountain
+1 Island
+1 Marsh Flats
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+4 Polluted Delta
+4 Watery Grave
+sideboard
+1 Jegantha, the Wellspring
+3 Thoughtseize
+3 Bone Shards
+4 Prismatic Ending
+1 Pithing Needle
+1 Soul-Guide Lantern
+2 Teferi, Time Raveler

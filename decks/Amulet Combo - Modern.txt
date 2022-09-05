@@ -1,0 +1,34 @@
+1 Cultivator Colossus
+2 Azusa, Lost but Seeking
+4 Primeval Titan
+4 Dryad of the Ilysian Grove
+4 Arboreal Grazer
+4 Summoner's Pact
+3 Explore
+4 Urza's Saga
+1 Expedition Map
+4 Amulet of Vigor
+1 Vesuva
+1 Sunhome, Fortress of the Legion
+1 Slayers' Stronghold
+1 Gruul Turf
+1 Crumbling Vestige
+1 Boseiju, Who Endures
+1 Boros Garrison
+1 Bojuka Bog
+2 Castle Garenbrig
+2 Valakut, the Molten Pinnacle
+2 Tolaria West
+3 Selesnya Sanctuary
+4 Simic Growth Chamber
+4 Forest
+4 Cavern of Souls
+sideboard
+1 Emrakul, the Promised End
+2 Hydroid Krasis
+3 Endurance
+2 Force of Vigor
+3 Dismember
+1 Relic of Progenitus
+1 Radiant Fountain
+2 Boseiju, Who Endures

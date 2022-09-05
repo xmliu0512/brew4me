@@ -1,0 +1,30 @@
+3 Stormwing Entity
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+4 Sprite Dragon
+1 Temur Battle Rage
+1 Spell Pierce
+2 Vapor Snag
+3 Gut Shot
+4 Mutagenic Growth
+4 Manamorphose
+4 Lightning Bolt
+4 Lava Dart
+4 Expressive Iteration
+1 Arid Mesa
+3 Steam Vents
+3 Fiery Islet
+3 Spirebluff Canal
+4 Mountain
+4 Scalding Tarn
+sideboard
+1 Vapor Snag
+1 Kozilek's Return
+2 Flusterstorm
+2 Smash to Smithereens
+1 Shattering Spree
+2 Dress Down
+2 Alpine Moon
+1 Void Mirror
+1 Dragon's Claw
+2 Tormod's Crypt

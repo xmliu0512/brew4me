@@ -1,0 +1,30 @@
+1 Brazen Borrower
+3 Murktide Regent
+4 Ledger Shredder
+4 Ragavan, Nimble Pilferer
+2 Spell Pierce
+3 Archmage's Charm
+4 Unholy Heat
+4 Lightning Bolt
+4 Counterspell
+4 Consider
+4 Expressive Iteration
+4 Mishra's Bauble
+1 Otawara, Soaring City
+1 Scalding Tarn
+1 Fiery Islet
+2 Polluted Delta
+2 Flooded Strand
+2 Misty Rainforest
+3 Steam Vents
+3 Snow-Covered Island
+4 Spirebluff Canal
+sideboard
+1 Fury
+2 Subtlety
+2 Flusterstorm
+2 Mystical Dispute
+2 Blood Moon
+2 Dress Down
+2 Unlicensed Hearse
+2 Engineered Explosives

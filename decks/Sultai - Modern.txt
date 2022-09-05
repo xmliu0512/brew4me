@@ -1,0 +1,31 @@
+1 Fury
+1 Sakura-Tribe Elder
+4 Dryad of the Ilysian Grove
+3 Fire // Ice
+4 Growth Spiral
+4 Lightning Bolt
+4 Remand
+1 Explore
+4 Expressive Iteration
+4 Scapeshift
+1 Dress Down
+3 Wrenn and Six
+1 Boseiju, Who Endures
+1 Mountain
+1 Island
+1 Breeding Pool
+2 Forest
+3 Valakut, the Molten Pinnacle
+3 Ketria Triome
+3 Scalding Tarn
+3 Stomping Ground
+4 Misty Rainforest
+4 Steam Vents
+sideboard
+1 Fury
+2 Endurance
+3 Veil of Summer
+3 Force of Vigor
+2 Engineered Explosives
+3 Chalice of the Void
+1 Boseiju, Who Endures

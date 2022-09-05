@@ -1,0 +1,28 @@
+2 Auriok Champion
+2 Walking Ballista
+3 Sanctifier en-Vec
+3 Skyclave Apparition
+4 Ranger-Captain of Eos
+4 Spike Feeder
+4 Arbor Elf
+4 Conclave Mentor
+4 Heliod, Sun-Crowned
+4 Collected Company
+4 Utopia Sprawl
+1 Yavimaya, Cradle of Growth
+1 Gavony Township
+1 Pendelhaven
+2 Plains
+2 Forest
+3 Horizon Canopy
+4 Windswept Heath
+4 Temple Garden
+4 Verdant Catacombs
+sideboard
+2 Archon of Emeria
+2 Endurance
+2 Natural State
+2 March of Otherworldly Light
+2 Path to Exile
+3 Veil of Summer
+2 Damping Sphere

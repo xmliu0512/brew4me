@@ -1,0 +1,33 @@
+1 Kroxa, Titan of Death's Hunger
+3 Seasoned Pyromancer
+4 Dauthi Voidwalker
+4 Fury
+4 Grief
+4 Ragavan, Nimble Pilferer
+1 Fatal Push
+1 Kolaghan's Command
+2 Terminate
+3 Feign Death
+3 Undying Malice
+3 Lightning Bolt
+4 Thoughtseize
+3 Fable of the Mirror-Breaker
+1 Shizo, Death's Storehouse
+1 Takenuma, Abandoned Mire
+1 Den of the Bugbear
+1 Graven Cairns
+1 Mountain
+2 Blood Crypt
+2 Polluted Delta
+3 Swamp
+4 Bloodstained Mire
+4 Blackcleave Cliffs
+sideboard
+3 Tourach, Dread Cantor
+1 Terminate
+1 Necromentia
+1 Hidetsugu Consumes All
+3 Blood Moon
+2 Engineered Explosives
+2 Unlicensed Hearse
+2 Chalice of the Void

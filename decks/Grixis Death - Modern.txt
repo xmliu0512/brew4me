@@ -1,0 +1,28 @@
+3 Dreadhorde Arcanist
+3 Murktide Regent
+4 Death's Shadow
+2 Temur Battle Rage
+2 Stubborn Denial
+3 Drown in the Loch
+3 Counterspell
+4 Lightning Bolt
+4 Consider
+2 Inquisition of Kozilek
+4 Serum Visions
+4 Expressive Iteration
+4 Thoughtseize
+1 Island
+3 Steam Vents
+3 Watery Grave
+3 Flooded Strand
+4 Polluted Delta
+4 Scalding Tarn
+sideboard
+2 Tourach, Dread Cantor
+1 Kolaghan's Command
+2 Flusterstorm
+2 Spell Pierce
+2 Dress Down
+1 Damping Sphere
+2 Engineered Explosives
+3 Soul-Guide Lantern

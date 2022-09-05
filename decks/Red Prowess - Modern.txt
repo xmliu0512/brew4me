@@ -1,0 +1,21 @@
+1 Icebreaker Kraken
+1 Emrakul, the Promised End
+4 Shadow of Mortality
+4 Autochthon Wurm
+4 Blinkmoth Infusion
+4 Calibrated Blast
+2 Throes of Chaos
+2 Boseiju, Who Shelters All
+4 Ramunap Ruins
+4 Gemstone Caverns
+4 Mishra's Factory
+4 Sunscorched Desert
+4 Radiant Fountain
+4 Rakdos Carnarium
+14 Mountain
+sideboard
+3 Consign // Oblivion
+3 Rough // Tumble
+2 Boseiju, Who Shelters All
+3 Scavenger Grounds
+4 Nephalia Academy

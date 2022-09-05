@@ -1,0 +1,40 @@
+1 Seasoned Pyromancer
+1 Ox of Agonas
+2 Fury
+2 Ice-Fang Coatl
+4 Ragavan, Nimble Pilferer
+2 Unholy Heat
+4 Ancient Grudge
+4 Lightning Bolt
+1 Shenanigans
+4 Expressive Iteration
+3 Fable of the Mirror-Breaker
+1 Liquimetal Torque
+3 Liquimetal Coating
+3 Karn, the Great Creator
+3 Wrenn and Six
+1 Breeding Pool
+1 Ketria Triome
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Sokenzan, Crucible of Defiance
+1 Stomping Ground
+1 Otawara, Soaring City
+2 Misty Rainforest
+2 Steam Vents
+3 Boseiju, Who Endures
+3 Wooded Foothills
+4 Scalding Tarn
+sideboard
+1 Walking Ballista
+1 Wurmcoil Engine
+4 Counterspell
+2 Anger of the Gods
+1 Ensnaring Bridge
+1 Engineered Explosives
+1 Chalice of the Void
+1 Liquimetal Coating
+1 Tormod's Crypt
+1 Pithing Needle
+1 Grafdigger's Cage

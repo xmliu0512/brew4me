@@ -1,0 +1,45 @@
+1 Crackdown Construct
+1 Lion Sash
+1 Breya's Apprentice
+4 Oswald Fiddlebender
+4 Stoneforge Mystic
+4 Esper Sentinel
+4 Goblin Engineer
+2 Galvanic Blast
+4 Urza's Saga
+1 Batterskull
+1 Aether Spellbomb
+1 Sword of the Meek
+1 Springleaf Drum
+1 Soul-Guide Lantern
+1 Shadowspear
+1 Pyrite Spellbomb
+1 Thopter Foundry
+1 Pithing Needle
+1 Nettlecyst
+1 Lightning Greaves
+1 Kaldra Compleat
+2 Portable Hole
+2 Darksteel Citadel
+1 Steam Vents
+1 Hallowed Fountain
+1 Raugrin Triome
+2 Plains
+2 Inspiring Vantage
+2 Sacred Foundry
+4 Arid Mesa
+4 Flooded Strand
+1 Rabbit Battery
+1 Hope of Ghirapur
+sideboard
+1 Burrenton Forge-Tender
+1 Jegantha, the Wellspring
+1 Mystical Dispute
+1 Blacksmith's Skill
+1 Spell Pierce
+3 Wear // Tear
+1 Ratchet Bomb
+1 Damping Sphere
+1 Unlicensed Hearse
+1 Void Mirror
+3 Teferi, Time Raveler

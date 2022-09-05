@@ -1,0 +1,38 @@
+1 Titania, Protector of Argoth
+1 Endurance
+1 Fury
+2 Tireless Tracker
+4 Tarmogoyf
+4 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
+2 Lightning Bolt
+4 Unholy Heat
+4 Traverse the Ulvenwald
+3 Urza's Saga
+1 Soul-Guide Lantern
+1 Shadowspear
+1 Expedition Map
+1 Zuran Orb
+2 Unlicensed Hearse
+3 Mishra's Bauble
+3 Wrenn and Six
+1 Boseiju, Who Endures
+1 Forgotten Cave
+1 Sokenzan, Crucible of Defiance
+1 Windswept Heath
+2 Forest
+2 Verdant Catacombs
+2 Mountain
+4 Wooded Foothills
+4 Stomping Ground
+sideboard
+1 Magus of the Moon
+2 Endurance
+2 Run Afoul
+3 Ancient Grudge
+1 Alpine Moon
+1 Torpor Orb
+1 Pyrite Spellbomb
+1 Pithing Needle
+1 Engineered Explosives
+2 Boseiju, Who Endures

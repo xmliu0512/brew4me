@@ -1,0 +1,40 @@
+1 Emrakul, the Promised End
+1 Endurance
+4 Solitude
+4 Omnath, Locus of Creation
+4 Ice-Fang Coatl
+4 Counterspell
+4 Unholy Heat
+4 Traverse the Ulvenwald
+4 Prismatic Ending
+4 Expressive Iteration
+2 Dress Down
+4 Abundant Growth
+4 Mishra's Bauble
+4 Wrenn and Six
+4 Teferi, Time Raveler
+1 Boseiju, Who Endures
+1 Temple Garden
+1 Stomping Ground
+1 Steam Vents
+1 Spara's Headquarters
+1 Snow-Covered Plains
+1 Snow-Covered Mountain
+1 Snow-Covered Island
+1 Raugrin Triome
+1 Otawara, Soaring City
+1 Hallowed Fountain
+1 Breeding Pool
+2 Flooded Strand
+2 Snow-Covered Forest
+4 Wooded Foothills
+4 Misty Rainforest
+4 Windswept Heath
+sideboard
+1 Yorion, Sky Nomad
+3 Flusterstorm
+4 Veil of Summer
+2 Supreme Verdict
+1 Dress Down
+2 Chalice of the Void
+2 Boseiju, Who Endures

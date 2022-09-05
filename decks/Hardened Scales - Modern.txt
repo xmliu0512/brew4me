@@ -1,0 +1,32 @@
+1 Arcbound Worker
+4 Arcbound Ravager
+4 Hangarback Walker
+4 Walking Ballista
+4 Zabaz, the Glimmerwasp
+4 Ancient Stirrings
+4 Urza's Saga
+4 Hardened Scales
+1 Shadowspear
+1 Springleaf Drum
+3 The Ozolith
+3 Welding Jar
+1 Pendelhaven
+1 Phyrexia's Core
+1 Gemstone Caverns
+2 Boseiju, Who Endures
+3 Karplusan Forest
+3 Forest
+4 Inkmoth Nexus
+4 Grove of the Burnwillows
+4 Patchwork Automaton
+sideboard
+1 Gemrazer
+2 Nature's Claim
+2 Dismember
+3 Natural State
+1 Damping Sphere
+1 Relic of Progenitus
+1 Pithing Needle
+1 Grafdigger's Cage
+1 Void Mirror
+2 Tamiyo's Safekeeping

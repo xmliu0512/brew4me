@@ -1,0 +1,25 @@
+1 Lion Sash
+2 Spellskite
+2 Extraction Specialist
+3 Flickerwisp
+4 Thalia, Guardian of Thraben
+4 Stoneforge Mystic
+4 Archon of Emeria
+4 Giver of Runes
+4 Solitude
+3 Ephemerate
+1 Sword of Light and Shadow
+1 Kaldra Compleat
+1 Sword of Fire and Ice
+4 Aether Vial
+1 Flagstones of Trokair
+1 Eiganjo Castle
+4 Eiganjo, Seat of the Empire
+4 Blast Zone
+12 Plains
+sideboard
+3 Kataki, War's Wage
+3 Elite Spellbinder
+3 Containment Priest
+3 Burrenton Forge-Tender
+3 Aven Mindcensor

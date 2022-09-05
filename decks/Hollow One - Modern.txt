@@ -1,0 +1,27 @@
+1 Wonder
+3 Ox of Agonas
+4 Flameblade Adept
+4 Hollow One
+4 Insolent Neonate
+4 Street Wraith
+4 Asmoranomardicadaistinaculdacar
+4 Vengevine
+4 Blazing Rootwalla
+4 Burning Inquiry
+4 Goblin Lore
+3 The Underworld Cookbook
+1 Scalding Tarn
+1 Sokenzan, Crucible of Defiance
+1 Steam Vents
+1 Wooded Foothills
+3 Stomping Ground
+3 Arid Mesa
+3 Mountain
+4 Copperline Gorge
+sideboard
+2 Lightning Axe
+3 Ancient Grudge
+1 Alpine Moon
+3 Blood Moon
+4 Leyline of the Void
+2 Engineered Explosives

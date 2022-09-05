@@ -1,0 +1,34 @@
+3 Memnite
+3 Urza, Lord High Artificer
+4 Esper Sentinel
+4 Ingenious Smith
+4 Thought Monitor
+3 Metallic Rebuke
+3 Thoughtcast
+4 Urza's Saga
+1 Aether Spellbomb
+1 Relic of Progenitus
+1 Pithing Needle
+1 Nettlecyst
+1 Shadowspear
+2 Talisman of Progress
+3 Springleaf Drum
+3 Razortide Bridge
+4 Portable Hole
+4 Darksteel Citadel
+2 Teferi, Time Raveler
+1 Flooded Strand
+1 Otawara, Soaring City
+1 Plains
+2 Hallowed Fountain
+4 Seachrome Coast
+sideboard
+2 Meddling Mage
+1 Hurkyl's Recall
+2 Spell Pierce
+3 Dispatch
+1 The Antiquities War
+1 Relic of Progenitus
+2 Chalice of the Void
+2 Torpor Orb
+1 Teferi, Time Raveler

@@ -1,0 +1,30 @@
+1 The Reality Chip
+4 Esper Sentinel
+4 Stoneforge Mystic
+4 Urza, Lord High Artificer
+3 Metallic Rebuke
+4 Urza's Saga
+4 The Antiquities War
+1 Aether Spellbomb
+1 Shadowspear
+1 Relic of Progenitus
+1 Kaldra Compleat
+1 Sword of the Meek
+1 Springleaf Drum
+4 Razortide Bridge
+4 Thopter Foundry
+4 Portable Hole
+1 Otawara, Soaring City
+1 Plains
+2 Island
+2 Hallowed Fountain
+4 Flooded Strand
+4 Seachrome Coast
+4 Moonsnare Prototype
+sideboard
+2 Spell Pierce
+2 Dovin's Veto
+3 Dispatch
+1 Pithing Needle
+3 Relic of Progenitus
+4 Damping Sphere

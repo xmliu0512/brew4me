@@ -1,0 +1,37 @@
+1 Valki, God of Lies
+3 Arboreal Grazer
+3 Omnath, Locus of Creation
+4 Dryad of the Ilysian Grove
+1 Supreme Verdict
+1 Scapeshift
+4 Bring to Light
+4 Prismatic Ending
+4 Expressive Iteration
+3 Teferi, Time Raveler
+4 Wrenn and Six
+1 Forest
+1 Temple Garden
+1 Stomping Ground
+1 Steam Vents
+1 Savai Triome
+1 Sacred Foundry
+1 Plains
+1 Mountain
+1 Island
+1 Breeding Pool
+1 Boseiju, Who Endures
+2 Ketria Triome
+2 Raugrin Triome
+2 Wooded Foothills
+3 Windswept Heath
+4 Valakut, the Molten Pinnacle
+4 Misty Rainforest
+sideboard
+3 Endurance
+2 Force of Vigor
+2 Flusterstorm
+2 Fire // Ice
+3 Mystical Dispute
+1 Unmoored Ego
+1 Supreme Verdict
+1 Boseiju, Who Endures

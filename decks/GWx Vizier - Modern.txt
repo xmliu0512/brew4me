@@ -1,0 +1,39 @@
+1 Walking Ballista
+1 Deputy of Detention
+1 Duskwatch Recruiter
+1 Endurance
+1 Giver of Runes
+1 Lavinia, Azorius Renegade
+1 Outland Liberator
+1 Scavenging Ooze
+1 Selfless Spirit
+1 Skyclave Apparition
+2 Birds of Paradise
+2 Ranger-Captain of Eos
+2 Ledger Shredder
+3 Vizier of Remedies
+4 Noble Hierarch
+4 Devoted Druid
+4 Extraction Specialist
+4 Collected Company
+4 Eladamri's Call
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Gavony Township
+1 Hallowed Fountain
+1 Plains
+2 Horizon Canopy
+2 Forest
+2 Razorverge Thicket
+2 Temple Garden
+4 Windswept Heath
+4 Misty Rainforest
+sideboard
+1 Endurance
+1 Remorseful Cleric
+2 Solitude
+3 Burrenton Forge-Tender
+2 Veil of Summer
+2 Prismatic Ending
+2 Engineered Explosives
+2 Teferi, Time Raveler

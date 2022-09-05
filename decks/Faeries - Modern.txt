@@ -1,0 +1,34 @@
+2 Brazen Borrower
+4 Spellstutter Sprite
+1 Cling to Dust
+2 March of Wretched Sorrow
+3 Fatal Push
+4 Counterspell
+4 Archmage's Charm
+2 Bloodchief's Thirst
+1 Spreading Seas
+4 Urza's Saga
+4 Bitterblossom
+1 Aether Spellbomb
+1 Shadowspear
+1 Nihil Spellbomb
+4 Mishra's Bauble
+2 Jace, the Mind Sculptor
+1 Otawara, Soaring City
+1 Swamp
+1 Scalding Tarn
+1 Misty Rainforest
+2 Watery Grave
+2 Creeping Tar Pit
+4 Island
+4 Darkslick Shores
+4 Polluted Delta
+sideboard
+2 Tourach, Dread Cantor
+1 Fatal Push
+3 Mystical Dispute
+3 Spreading Seas
+1 Pithing Needle
+1 Nihil Spellbomb
+1 Soul-Guide Lantern
+3 Engineered Explosives

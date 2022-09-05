@@ -1,0 +1,30 @@
+1 Dryad Arbor
+1 Shaman of the Pack
+2 Ezuri, Renegade Leader
+2 Realmwalker
+3 Nettle Sentinel
+4 Dwynen's Elite
+4 Quirion Ranger
+4 Llanowar Elves
+4 Heritage Druid
+4 Elvish Warmaster
+4 Elvish Mystic
+4 Elvish Archdruid
+4 Collected Company
+2 Finale of Devastation
+1 Growing Rites of Itlimoc
+1 Overgrown Tomb
+1 Cavern of Souls
+2 Windswept Heath
+2 Wooded Foothills
+3 Forest
+3 Blooming Marsh
+4 Verdant Catacombs
+sideboard
+1 Realmwalker
+1 Shaman of the Pack
+2 Collector Ouphe
+3 Endurance
+2 Veil of Summer
+3 Surgical Extraction
+3 Thoughtseize
