@@ -116,8 +116,13 @@ def main():
     deck_dir = file_dir + "\\decks\\"
     collection_dir = file_dir + "\\collection\\"
     deck_file_list = os.listdir(deck_dir)
-    collection_file = os.listdir(collection_dir)
-    my_collection = collection (collection_dir+collection_file[0])
+    collection_folder = os.listdir(collection_dir)
+    collection_file = None
+    print(collection_folder)
+    for file in collection_folder:
+        if file[-4:] == '.csv':
+            collection_file=file
+    my_collection = collection (collection_dir+collection_file)
     deck_list = []
     for deck_file in deck_file_list:
         temp_deck = deck(deck_dir,deck_file)

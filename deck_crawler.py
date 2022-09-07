@@ -54,25 +54,27 @@ def main():
 
         write_flag= False
         outdeck=''
-        sideboard_count = -1
+        deck_count = -1
         words_to_skip = ['Creature','Instant','Sorcery','Enchantment','Land','Artifact','Planeswalker','Other']
         for line in pagetext.splitlines():
             
             if 'Mainboard (' in line:
                 write_flag=True
+                deck_count = int(re.search('\d+',line).group())
                 continue
             if 'Sideboard (' in line:
-                sideboard_count = int(re.search('\d+',line).group())
+                write_flag=True
+                deck_count = int(re.search('\d+',line).group())
                 outdeck += 'sideboard\n'
                 continue
             if write_flag == True:
                 if line in words_to_skip:
                     continue
-                if sideboard_count > 0:    
-                    sideboard_count -= int(re.search('\d+',line).group())
+                if deck_count > 0:    
+                    deck_count -= int(re.search('\d+',line).group())
                 outdeck += line+'\n'
-                if sideboard_count == 0:
-                    break
+                if deck_count == 0:
+                    write_flag = False
         
         out_name = pagetext.splitlines()[0][0:-12] + '.txt'
         f = open('decks/'+out_name, 'w')
