@@ -13,7 +13,7 @@ Python3 is needed to run the script.
 
 
 # Installation
-1. Copy the repository or [download brew4me as a zip file.](https://github.com/xmliu0512/brew4me/archive/refs/heads/main.zip)
+1. Copy the repository or [click here download brew4me as a zip file.](https://github.com/xmliu0512/brew4me/archive/refs/heads/main.zip)
 2. Place all files in the same location on your computer.
 3. Place your collection file (.csv) in the `collection` folder.
 

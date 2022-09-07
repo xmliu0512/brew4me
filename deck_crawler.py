@@ -4,9 +4,21 @@ import re
 
 def main():
     session = requests_html.HTMLSession()
-    mtgsite = session.get('https://www.mtgstocks.com/formats/3') #, context=ssl.create_default_context(cafile=certifi.where())
+    print('What kind of decks would you like to download?\n'
+          '1 - Legacy\n'
+          '2 - Vintage\n'
+          '3 - Modern\n'
+          '4 - Pioneer\n' 
+          '5 - Standard\n'
+          '6 - Pauper\n'
+          'Please enter the number of the format you wish to download.')
+    format = input()
+    format_to_num = {'1':1,'2':2,'3':3,'4':15,'5':4,'6':7}
+    format_to_str = {'1':'Legacy','2':'Vintage','3':'Modern','4':'Pioneer','5':'Standard','6':'Pauper'}
+    print('Downloading '+ format_to_str[format] +' decks...')
+    mtgsite = session.get('https://www.mtgstocks.com/formats/' + str(format_to_num[format])) #, context=ssl.create_default_context(cafile=certifi.where())
     
-    archetype_list = []
+    archetype_list = []               
     while not archetype_list:
         mtgsite.html.render(timeout=300)
         for link in mtgsite.html.links:
@@ -67,7 +79,7 @@ def main():
         f.write(outdeck)
         f.close
         
-    print('Finished fetching decks!')
+    print('\nFinished fetching decks!')
     session.close()
     sys.exit(1)
         
