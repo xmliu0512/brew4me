@@ -80,16 +80,27 @@ class collection:
         """
         with open(file_dir, 'r') as file:
             reader = csv.reader(file)
+            quantity_index = -1
+            name_index = -1
+            quantity_words= ['quantity','count']
+            first_row = next(reader) # Read first line and count columns
+            file.seek(0) 
+
+            for i in range(len(first_row)):
+                if first_row[i].lower() == 'name':
+                    name_index = i
+                if first_row[i].lower() in quantity_words:
+                    quantity_index = i 
             for row in reader:
                 try:
                     if self.cards:
-                        if self.cards[-1][1] == row[2]:
+                        if self.cards[-1][1] == row[name_index]:
                             self.cards[-1][0] = str(int(self.cards[-1][0])
-                                                    + int(row[0]))
+                                                    + int(row[quantity_index]))
                         else:
-                            self.cards.append([row[0],row[2]])
+                            self.cards.append([row[quantity_index],row[name_index]])
                     else:
-                        self.cards.append([row[0],row[2]])
+                        self.cards.append([row[quantity_index],row[name_index]])
                 except:
                     continue
 
@@ -112,7 +123,6 @@ def compare_deck_to_collection (collection,deck):
 def main():
 
     file_dir = os.path.dirname(os.path.realpath(__file__))
-    print (file_dir)
     deck_dir = file_dir + "\\decks\\"
     collection_dir = file_dir + "\\collection\\"
     deck_file_list = os.listdir(deck_dir)
