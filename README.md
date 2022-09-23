@@ -1,6 +1,12 @@
 <h1 align="center">
   brew4me
 </h1>
+ 
+ <h2>
+UPDATE: Don't want to download anything? Try our web version: https://mikeliu0512.pythonanywhere.com
+</h2>
+
+
 
 <h4 align="left">
 brew4me is a tool to find popular Magic: the Gathering decks using the user's collection.
