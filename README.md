@@ -6,6 +6,10 @@
 UPDATE: Don't want to download anything? Try our web version: https://mikeliu0512.pythonanywhere.com
 </h2>
 
+ <h3>
+Interested in what we're doing? Checkout our Trello roadmap: https://trello.com/b/MWu2qePH/mtg-net-decker-roadmap
+
+</h3>
 
 
 <h4 align="left">
